@@ -1,0 +1,4 @@
+co ban su dung duoc:
+-git bash
+-subline text3
+-openshift (em chua biet cho code len )
